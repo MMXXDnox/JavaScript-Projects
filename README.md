@@ -1,3 +1,4 @@
 # JavaScript-Projects
 JavaScript Projects Assignments
-This is my JavaScript Projects Repo
+
+Hello & Welcome This is my JavaScript Projects Repo, 
