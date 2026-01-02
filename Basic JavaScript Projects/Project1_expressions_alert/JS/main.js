@@ -1,4 +1,23 @@
+//main.js
+
+//window.alert method
 window.alert("Hello, world!");
+
+//document.write method
+document.write("Welcome to my Basic JavaScript Projects Assignment!<br>");
+
+//creating two variables
+var Sent1 = "This is the begining of the string<br>";
+var Sent2 = "This is the end of the string<br>";
+
+//displaying the variables using the document.write method
+document.write(Sent1 + Sent2 + "<br>");
+
+// an epression
+document.write(40*96 + "<br>");
+
+//Functions stretch goal
+function Make_Blue(turn_font_blue) { turn_font_blue.style.color='blue';}
 
 // Escape Character Assignment
 document.write("Hello, world!<br>");
